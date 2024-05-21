@@ -417,4 +417,9 @@
     <string name="software_update_up_to_date_header">Your Pixel is up to date</string>
     <string name="software_update_up_to_specific_date_summary">Updated to %1$s</string>
     <string name="system_update_entry_title">System update</string>
+
+    <!-- Hide screen capture status -->
+    <string name="hide_screen_capture_status_title">Hide screen capture status</string>
+    <string name="hide_screen_capture_status_summary">Hide screen capture and screen record status from all applications. Can be convenient in some cases but may lead to privacy leaks. Need to restart applications for the change to take effect.</string>
+
 </resources>
