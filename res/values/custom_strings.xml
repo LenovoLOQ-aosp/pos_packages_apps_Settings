@@ -384,4 +384,10 @@
     <string name="hide_developer_status_title">Hide developer status</string>
     <string name="hide_developer_status_summary">Hide developer status from apps</string>
 
+    <!-- ReVanced -->
+    <string name="revan_toggle_title">ReVanced Integration</string>
+    <string name="revan_toggle_summary">Use ReVanced variants of YouTube and YT Music instead of stock apps</string>
+    <string name="revan_restart_dialog_title">Restart device?</string>
+    <string name="revan_restart_dialog_message">Restart now to apply this change.</string>
+    <string name="revan_restart_now">Restart now</string>
 </resources>
